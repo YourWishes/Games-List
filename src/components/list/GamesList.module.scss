@@ -1,0 +1,13 @@
+.c-games-list {
+  width: 100%;
+  td,th {
+    margin: 0;
+    padding: 0.25em 0.5em;
+  }
+
+  tr {
+    &:hover {
+      background: #DDD;
+    }
+  }
+}

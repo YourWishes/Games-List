@@ -1,0 +1,14 @@
+@import 'src/styles/settings/gutters';
+
+.c-app {
+  max-width: 1600px;
+  margin: 0 auto;
+
+  &__header {
+    padding: $s-gutter--xsmall;
+  }
+
+  &__body {
+    padding: 0 $s-gutter--xsmall;
+  }
+}
