@@ -26,6 +26,7 @@ export const withData = (Component) => {
         let dataText = await dataRaw.text();
 
         let { data } = parse(dataText, { header: true });
+        data = data.filter(d => !!d['Game Name'].length);
         this.setState({ loading: false, loaded: true, data });
       } catch(e) {
         this.setState({ loading: false, loaded: true, error: e })
