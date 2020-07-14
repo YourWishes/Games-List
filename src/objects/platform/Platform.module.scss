@@ -1,0 +1,12 @@
+.c-platform {
+  text-align: center;
+  
+  &__icon {
+    width: 5em;
+    max-height: 2em;
+    height: auto;
+    display: inline-block;
+    object-fit: contain;
+    margin: 0.5em 0;
+  }
+}

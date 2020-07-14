@@ -27,6 +27,7 @@ export const Region = (props) => {
     <img
       src={`${process.env.PUBLIC_URL}/regions/${regionFile}.svg`}
       className={s['c-region__flag']}
+      alt={region}
     />
   </div>
 }
