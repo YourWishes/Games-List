@@ -73,7 +73,7 @@ export const GamesList = withData((props) => {
 
     'default': null
   }).find(([ key, value ]) => {
-    if(key != sort || value == null) return false;
+    if(key !== sort || value === null) return false;
     return dataSorted = data.sort((l,r) => {
       let d = l[value].localeCompare(r[value]);
       return d === 0 ? l['Game Name'].localeCompare(r['Game Name']) : d;

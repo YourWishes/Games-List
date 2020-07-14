@@ -1,0 +1,10 @@
+.c-region {
+  text-align: center;
+  
+  &__flag {
+    width: 2em;
+    height: auto;
+    display: inline-block;
+    border: 1px solid black;
+  }
+}
