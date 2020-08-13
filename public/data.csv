@@ -53,7 +53,7 @@ Harvest Moon DS,DS,PAL-EU,A+,A-,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 House M.D.,DS,PAL-EU,A+,A+,A+,,
 The Legend of Zelda Phantom Hourglass,DS,PAL-AU,A+,M,A+,,
 The Legend of Zelda Spirit Tracks,DS,PAL-EU,A+,A+,A-,,"Cartridge is PAL-EU, Box is PAL-AU"
-"Shin Lucky Star Moe Drill: Tabidachi",DS,NTSC-J,A+,A+,A+,,
+Shin Lucky Star Moe Drill: Tabidachi,DS,NTSC-J,A+,A+,A+,,
 Okami Den,DS,NTSC-UC,S,S,S,,
 Mario & Luigi Bowser's Inside Story,DS,PAL-AU,A+,A+,A+,,
 Mario & Luigi Partners in Time,DS,PAL-AU,A+,A+,A+,,
@@ -510,7 +510,7 @@ Toradora Portable!,PSP,NTSC-J,A+,A+,A+,,
 Lucky Star Net iDol Meister,PSP,NTSC-J,A+,A+,A+,,
 My Little Sister can't be this cute portable!,PSP,NTSC-J,A+,A+,A+,,
 Kokoro Connect,PSP,NTSC-J,S,S,S,,
-"Oreimo Portable Ore no imouto to koi siyo",PSP,NTSC-J,A+,A+,A+,Bonus game for My Little Sister can't be this cute?,
+Oreimo Portable Ore no imouto to koi siyo,PSP,NTSC-J,A+,A+,A+,Bonus game for My Little Sister can't be this cute?,
 Lucky Star Portable?,PSP,NTSC-J,A+,A+,A+,,
 Haruhi Suzumiya No Yakusoku,PSP,NTSC-J,A+,A+,A+,Alternate cover?,
 Dynasty Warriors Vol. 2,PSP,PAL-AU,A+,A+,A+,,
@@ -562,7 +562,7 @@ Project Gotham Racing,XBOX,PAL-AU,A-,A-,B+,,"Disc is a classics version, case is
 Midtown Madness 3,XBOX,PAL-AU,A-,A,A-,,Not for resale Version
 Kirby 64,N64,NTSC-J,A+,M,M,,
 Mario Tennis 64,N64,NTSC-J,A,M,M,,
-"Tamagotchi 64: Minna de Tamagotchi World",N64,NTSC-J,A,M,M,,
+Tamagotchi 64: Minna de Tamagotchi World,N64,NTSC-J,A,M,M,,
 Star Fox 64,N64,NTSC-J,A,M,M,,
 Paper Mario,N64,NTSC-UC,A,M,M,,
 Paper Mario / Mario Story,N64,NTSC-J,A,M,M,,
@@ -644,5 +644,9 @@ Kirby Mass Attack,DS,NTSC-UC,A+,A+,A+,,
 Danganronpa Trigger Happy Havoc,Vita,PAL-EU,A+,N/A,A+,,
 actionloop,DS,PAL-EU,A+,A+,A+,Includes DS Rumble Pack,
 WarioWare D.I.Y.,DS,PAL-AU,A,A,A+,,
-Danganronpa Another Episode: Ultra Despair Girls,Vita,PAL-EU,S,N/A,S,"",""
-Pursuit Force,PSP,PAL-AU,A+,A+,A+,"",""
+Danganronpa Another Episode: Ultra Despair Girls,Vita,PAL-EU,S,N/A,S,,
+Pursuit Force,PSP,PAL-AU,A+,A+,A+,,
+Gundam Breaker 3,Vita,NTSC-J,A+,A+,A+,"",""
+Metal Gear Ac!d,PSP,NTSC-UC,A+,A+,A,"",""
+Mario Party 6,GC,NTSC-UC,B+,A+,A+,"",""
+Fate Extellia Link,Switch,NTSC-UC,A+,A+,A-,"",""
