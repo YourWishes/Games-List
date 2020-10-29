@@ -211,6 +211,7 @@ Resident Evil 4,GC,NTSC-UC,A+,A+,A+,Includes both discs,
 Sonic Adventure DX Director's Cut,GC,NTSC-UC,A+,M,A,,
 Sonic Mega Collection,GC,NTSC-UC,A+,A+,A,,
 Spongebob Squarepants Revenge of the Flying Dutchman,GC,NTSC-UC,A+,A,A,,
+Star Fox Assault,GC,NTSC-UC,A+,A+,A,,Player's Choice Version
 Super Mario Sunshine,GC,PAL-EU,A,A+,B-,,Artwork has a tear on the spine
 Super Smash Bros. Melee,GC,PAL-AU,B,A-,B+,,
 Super Smash Bros. Melee,GC,NTSC-J,A-,A+,A-,,
@@ -221,7 +222,6 @@ The Legend of Zelda Twilight Princess,GC,NTSC-UC,A+,A+,A+,,
 The Legend of Zelda Twilight Princess,GC,PAL-EU,A-,A+,A+,,Dutch Version
 The Legend of Zelda Wind Waker,GC,NTSC-UC,A+,A+,A+,,
 The Legend of Zelda Wind Waker,GC,PAL-EU,A+,A+,A+,"Limited Edition, Includes Ocarina of Time & Master Quest Disc",
-Star Fox Assault,GC,NTSC-UC,A+,A+,A,,Player's Choice Version
 Fire Emblem Warriors,n3DS,PAL-AU,A+,A+,A+,,
 Banjo Kazooie,N64,NTSC-J,A,M,M,,
 Banjo Tooie,N64,NTSC-UC,A,M,M,,
@@ -257,24 +257,24 @@ The Legend of Zelda Ocarina of Time,N64,PAL-AU,A+,A,B+,Collector's Edition,
 Yoshi's Story,N64,NTSC-J,A,M,M,,
 Balloon Fight,NES,NTSC-J,B+,M,M,,
 Clu Clu Land,NES,NTSC-J,B+,M,M,,
+Donkey Kong Jr.,NES,NTSC-J,B,M,M,,
+Dr Mario,NES,NTSC-J,B,M,M,,
 Excite Bike,NES,NTSC-J,B+,M,M,,
 Final Fantasy I-II,NES,NTSC-J,A+,A-,B,"Includes Map, Quick Guide and Manual Book(?)",
 Fire Emblem,NES,NTSC-J,B+,M,M,,
+Ice Climbers,NES,NTSC-J,A-,M,M,,
 Kirby's Adventure,NES,NTSC-J,B+,M,M,,
 Kung Fu (?????X),NES,NTSC-J,B+,M,M,,
 Mario Open Golf,NES,NTSC-J,B+,M,M,,
-Super Mario Bros.,NES,NTSC-J,B,M,M,,
-Super Mario Bros. 3,NES,NTSC-J,B+,M,M,,
-The Portopia Serial Murder Case (???????????),NES,NTSC-J,B+,M,M,,
-Yoshi's Cookie,NES,NTSC-J,B,M,M,,"Cartridge has writing on it, needs cleaning"
-Tetris,NES,NTSC-J,B,M,M,,
-Dr Mario,NES,NTSC-J,B,M,M,,
-Yoshi's Egg,NES,NTSC-J,A+,M,M,,
-Donkey Kong Jr.,NES,NTSC-J,B,M,M,,
-Twin Bee,NES,NTSC-J,B+,M,M,,
 Pac-man,NES,NTSC-J,A-,M,M,,
+Super Mario Bros.,NES,NTSC-J,B,M,M,,
 Super Mario Bros. 2,NES,NTSC-J,A-,M,M,,
-Ice Climbers,NES,NTSC-J,A-,M,M,,
+Super Mario Bros. 3,NES,NTSC-J,B+,M,M,,
+Tetris,NES,NTSC-J,B,M,M,,
+The Portopia Serial Murder Case (???????????),NES,NTSC-J,B+,M,M,,
+Twin Bee,NES,NTSC-J,B+,M,M,,
+Yoshi's Cookie,NES,NTSC-J,B,M,M,,"Cartridge has writing on it, needs cleaning"
+Yoshi's Egg,NES,NTSC-J,A+,M,M,,
 Gurumin,PC,NTSC-J,A+,A+,A+,Soundtrack and books,Too much to detail
 Gurumin,PC,NTSC-J,A+,A+,A+,"Soundtrack and books, vista version",Too much to detail
 Ace Combat,PS1,NTSC-J,A-,B+,B+,,
@@ -318,24 +318,23 @@ Battlefield Bad Company 2,PS3,PAL-AU,A-,A+,A,,"Disc is Platinum edition, case is
 Call of Duty 4 Modern Warfare,PS3,PAL-AU,A+,A+,A+,,
 Call of Duty Black Ops,PS3,PAL-AU,A,A+,B+,,Disc needs cleaning (but is unscratched)
 Call of Duty Modern Warfare 2,PS3,PAL-AU,A+,A+,A+,,
+Devil May Cry 4,PS3,PAL-AU,B+,A+,B+,,
 Final Fantasy XIII,PS3,PAL-AU,A+,A+,A+,,
 Gran Turismo 5,PS3,PAL-AU,M,B,B-,,"Missing game, has NFS Hot Pursit in it"
+Heavenly Sword,PS3,PAL-AU,A,A+,A+,,
 InFamous 2,PS3,PAL-AU,A,A+,A-,Includes DLC Code,Replace the case
 Katamari Forever,PS3,NTSC-UC,A+,A+,A+,,Case has OLFC Stickers
+LittleBigPlanet 2,PS3,PAL-AU,A+,B,A+,,
 Medal of Honor,PS3,PAL-AU,A+,A+,A,,
 Need for Speed Hot Pursuit,PS3,PAL-AU,A,M,M,,"Platinum Version, Currently within Gran Turismo 5 Case"
 Need for Speed Hot Pursuit,PS3,PAL-AU,A+,A+,A+,,
+PlayStation Move heroes,PS3,NTSC-A,A+,A+,A+,,
 RAGE,PS3,PAL-AU,A+,A+,A+,,
 Red Dead Redemption,PS3,PAL-AU,A+,A+,A+,,
 Sonic Generations,PS3,PAL-AU,A+,A-,A+,,
 Time and Eternity,PS3,NTSC-A,A+,A+,A+,,
-Devil May Cry 4,PS3,PAL-AU,B+,A+,B+,,
 Time Crisis Razing Storm,PS3,PAL-AU,B+,A,B,,
-Heavenly Sword,PS3,PAL-AU,A,A+,A+,,
 Tomb Raider Underworld,PS3,PAL-AU,A-,A+,A,,
-LittleBigPlanet 2,PS3,PAL-AU,A+,B,A+,,
-PlayStation Move heroes,PS3,NTSC-A,A+,A+,A+,,
-The Last of Us,PS4,PAL-AU,A,A+,A+,,
 Battlefield 1,PS4,PAL-AU,A+,N/A,A+,,"Case needs replacing, artwork is fine"
 Deus Ex Mankind Divided,PS4,PAL-AU,A+,N/A,A+,,
 DISSIDIA Final Fantasy NT,PS4,PAL-AU,A+,N/A,M,"Steelbook edition, missing outer sleeve",
@@ -356,6 +355,7 @@ Red Dead Redemption II,PS4,PAL-AU,A+,N/A,A+,,
 Red Faction Guerrilla Remarsterred,PS4,PAL-EU,A+,N/A,A+,,"Not a spelling mistake, stupid name"
 Resident Evil 4,PS4,PAL-AU,A+,A+,A+,,
 Shadow of the Colossus,PS4,PAL-AU,A+,A+,A+,,
+The Last of Us,PS4,PAL-AU,A,A+,A+,,
 Uncharted 4: A Thief's End,PS4,PAL-AU,A+,N/A,A+,"Steelbook Edition, missing art book(?) includes stickers and DLC code (unchecked)",
 Uncharted The Nathan Drake Collection,PS4,PAL-AU,S,S,S,,Playstation Hits Version
 Watch_Dogs,PS4,PAL-AU,A,A+,A+,"ANZ Special Edition, Includes Season Pass and DLC code (untested)",
@@ -364,6 +364,7 @@ Elder Scrolls V: Skyrim VR,PS4VR,PAL-AU,A+,A+,A+,,
 PlayStation VR Worlds,PS4VR,PAL-AU,A+,A+,A+,,
 Super Stardust Ultra VR,PS4VR,PAL-AU,A+,A+,A+,,
 Bokuha Tomodachiga Sukunai Portable,PSP,NTSC-J,A+,A+,A+,Includes Trading Card(?),
+Buzz Master Quiz,PSP,PAL-AU,A,A+,A+,,
 Crisis Core: Final Fantasy VII,PSP,PAL-EU,A,A+,A-,,
 Daxter,PSP,PAL-AU,A+,A+,A+,,
 DISSIDIA Final Fantasy,PSP,PAL-AU,A+,A+,A+,,
@@ -402,7 +403,6 @@ Star Wars Battlefront II,PSP,NTSC-UC,C-,A+,A+,,"UMD Case needs replacing despera
 Tekken Dark Resurrection,PSP,PAL-AU,A+,A+,A+,,"Platinum Version, Case is covered in stickers (replace)"
 Toradora Portable!,PSP,NTSC-J,A+,A+,A+,,
 Wall-E,PSP,PAL-AU,A,N/A,N/A,Pre-Production release,
-Buzz Master Quiz,PSP,PAL-AU,A,A+,A+,,
 Ecco the Dolphin,SMD,PAL-EU,B,M,M,,
 Bahamut Lagoon,SNES,NTSC-J,B+,B+,B+,,
 Donkey Kong,SNES,NTSC-J,A+,M,M,,
@@ -446,6 +446,7 @@ Astral Chain,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Batman The Telltale Series,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Bayonetta 2,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Blade Strangers,Switch,NTSC-UC,A+,A+,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
+Cadence of Hyrule,Switch,PAL-AU,A+,N/A,A+,,
 Candle,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Captain Toad Treasure Tracker,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Collection of Mana,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
@@ -488,6 +489,7 @@ Oninaki,Switch,PAL-EU,A+,N/A,A+,,
 Owlboy,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Paper Mario The Origami King,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Phoenix Wright: Ace Attorney Trilogy,Switch,NTSC-J,A+,N/A,A+,,
+Pikmin 3,Switch,PAL-AU,A+,N/A,A+,,
 Poi Explorer,Switch,PAL-EU,A+,N/A,A-,,"Cartridge is PAL-EU, Box is PAL-AU. Case has cracked"
 Pokemon Let's Go Eevee,Switch,PAL-EU,A+,N/A,A+,Includes Pokeball Plus,"Cartridge is PAL-EU, Box is PAL-AU"
 Pokemon Let's Go Pikachu,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
@@ -750,6 +752,7 @@ Wii Sports,Wii,PAL-AU,M,C,C,,
 Wii Sports,Wii,PAL-AU,A+,A+,A+,,
 Wii Sports Resort,Wii,PAL-AU,A+,A,B,,Tiny tear to art behind the manual retention
 Animal Crossing amiibo Festival,Wii U,PAL-AU,A+,A+,A+,Includes 3 amiibo Cards,
+Bayonetta,Wii U,PAL-AU,A+,N/A,A+,,
 Disney Epic Mickey 2 Thge Power of Two,Wii U,PAL-EU,A+,A+,A+,,Case has OLFC Stickers
 Kirby and the Rainbow Paintbrush,Wii U,PAL-AU,A+,N/A,A+,,
 Mario Party 10,Wii U,PAL-AU,A+,N/A,B+,,
@@ -765,7 +768,6 @@ The Legend of Zelda Breath of the Wild,Wii U,PAL-AU,A+,N/A,A+,,
 The Legend of Zelda Twilight Princess HD,Wii U,PAL-AU,A+,N/A,A+,,
 The Legend of Zelda Wind Waker HD,Wii U,PAL-AU,A+,N/A,A+,,
 Yoshi's Wooly World,Wii U,PAL-AU,A+,N/A,A+,,
-Bayonetta,Wii U,PAL-AU,A+,N/A,A+,,
 Final Fantasy,WSC,NTSC-J,A+,A+,B+,,
 Halo 2,XBOX,PAL-AU,B-,A,A,,
 Halo Combat Evolved,XBOX,PAL-AU,B,A,B,,
@@ -782,5 +784,5 @@ Dynasty Warriors Gundam,XBOX360,PAL-EU,A+,M,A+,,Case has OLFC Stickers
 Elder Scrolls V: Skyrim,XBOX360,PAL-AU,A+,M,A+,,
 Fable II,XBOX360,PAL-AU,A-,M,A,,
 Fable III,XBOX360,PAL-AU,B+,A,A,,Case has stickers on it
-Phantasy Star Universe,XBOX360,PAL-AU,A+,M,M,,
 Mass Effect 2,XBOX360,PAL-AU,C,A+,B+,,
+Phantasy Star Universe,XBOX360,PAL-AU,A+,M,M,,
