@@ -349,6 +349,7 @@ RAGE,PS3,PAL-AU,A+,A+,A+,,
 Red Dead Redemption,PS3,PAL-AU,A+,A+,A+,,
 Sonic Generations,PS3,PAL-AU,A+,A-,A+,,
 Sonic the Hedgehog,PS3,PAL-AU,A,A,A-,,
+The Orange Box,PS3,PAL-AU,A+,A+,A+,,"Disc is PAL-AU, Case is PAL-EU"
 Time and Eternity,PS3,NTSC-A,A+,A+,A+,,
 Time Crisis Razing Storm,PS3,PAL-AU,B+,A,B,,
 Tomb Raider Underworld,PS3,PAL-AU,A-,A+,A,,
@@ -434,12 +435,12 @@ Bahamut Lagoon,SNES,NTSC-J,B+,B+,B+,,
 Donkey Kong,SNES,NTSC-J,A+,M,M,,
 Donkey Kong 2,SNES,NTSC-J,A+,M,M,,
 Donkey Kong 3,SNES,NTSC-J,B+,M,M,,
+F-ZERO,SNES,NTSC-J,B,M,M,,"Cartridge has some writing on it, needs cleaning"
 Final Fantasy IV,SNES,NTSC-J,A+,B,B,,
 Final Fantasy V,SNES,NTSC-J,A+,B-,A,,
 Final Fantasy VI,SNES,NTSC-J,A+,A-,A-,,
-F-ZERO,SNES,NTSC-J,B,M,M,,"Cartridge has some writing on it, needs cleaning"
 Goof Troop,SNES,PAL-EU,A,M,B+,,
-Ha? Taikei Ry? Knight: Road of Paladin ,SNES,NTSC-J,B+,B+,B+,,
+Ha? Taikei Ry? Knight: Road of Paladin,SNES,NTSC-J,B+,B+,B+,,
 Kirby Ball,SNES,NTSC-J,A+,M,M,,
 Kirby Super Deluxe,SNES,NTSC-J,A,M,M,,
 Lemmings,SNES,NTSC-J,C-,M,M,,Cartridge has some bad yellowing
@@ -541,6 +542,7 @@ Sonic Mania Plus,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Splatoon 2,Switch,PAL-AU,A+,N/A,A+,,
 Spyro Reignited Trilogy,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Stardew Valley,Switch,NTSC-J,A+,A+,A+,Includes Soundtrack and Artbook,"Cartridge is PAL-EU, Box is PAL-AU"
+Stardew Valley,Switch,NTSC-UC,S,S,S,,
 Starlink Battle for Atlas,Switch,PAL-EU,A+,A+,A+,"Includes Joycon/Starship Grip, I have a few different weapons and characters","Cartridge is PAL-EU, Box is PAL-AU"
 Super Mario Maker 2,Switch,PAL-EU,A+,N/A,A+,,
 Super Mario Odyssey,Switch,NTSC-UC,A+,N/A,A+,,
@@ -555,6 +557,7 @@ The Elder Scrolls V: Skyrim,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box i
 The Legend of Zelda Breath of the Wild,Switch,PAL-AU,A+,A+,A+,,
 The Legend of Zelda Link's Awakening,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 The Witcher 3: Wild Hunt Complete Edition,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
+The Wonderful 101,Switch,PAL-EU,S,S,S,,
 Tokyo Mirage Sessions FE Encore,Switch,PAL-AU,A+,N/A,A+,,
 Travis Strikes Again No More Heroes,Switch,PAL-EU,A+,N/A,A+,,"Cartridge is PAL-EU, Box is PAL-AU"
 Untitled Goose Game,Switch,PAL-AU,A+,A+,A+,,
@@ -608,8 +611,8 @@ Factorium 90,Vita,NTSC-UC,S,S,S,LRG Release,
 FIFA 13,Vita,PAL-EU,A+,N/A,M,,
 FIFA 13,Vita,PAL-EU,A+,N/A,A+,,
 FIFA Football,Vita,PAL-EU,A+,A+,A+,,
-Final Fantasy X/X-2 HD Remaster,Vita,PAL-EU,A+,A+,A+,Includes X-2 Download Code (Unused),"Cartridge is PAL-EU, Box is PAL-AU"
 Final Fantasy X-2 HD Remaster,Vita,NTSC-A,A+,N/A,A+,,
+Final Fantasy X/X-2 HD Remaster,Vita,PAL-EU,A+,A+,A+,Includes X-2 Download Code (Unused),"Cartridge is PAL-EU, Box is PAL-AU"
 Gal*Gun Double Peace,Vita,PAL-EU,A+,N/A,A+,,Case has OLFC Stickers
 Genkai Tokki: Seven Pirates,Vita,NTSC-J,A+,N/A,A+,Includes OST,
 God Eater 2,Vita,NTSC-J,A+,A+,A+,,
