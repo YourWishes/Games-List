@@ -10,4 +10,4 @@ You could clone the repo, run yarn start and use the built-in create-react-app t
 
 
 
-## [View Games List](https://github.com/YourWishes/Games-List/blob/master/public/data.csv)
+## [View Games List here](https://datastudio.google.com/reporting/c2b6e655-1ba5-42af-8450-af9302017f78)
